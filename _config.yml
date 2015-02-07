@@ -3,8 +3,8 @@ title:              "SwiftDoc.org"
 email:              info@swiftdoc.org
 description:        "Auto-generated documentation for Swift. Command-click no more."
 keywords:           "swift,documentation,swiftdoc,apple,swiftdoc.org"
-baseurl:            ""
-url:                "http://kareman.github.io/swiftdoc.org"
+baseurl:            "/swiftdoc.org"
+url:                "http://kareman.github.io"
 twitter_username:   SwiftDocOrg
 github_username:    SwiftDocOrg
 
